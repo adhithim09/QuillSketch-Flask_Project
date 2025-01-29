@@ -2,11 +2,11 @@
 QuillSketch is a straightforward Python web application developed with Flask that transforms uploaded images (PNG, JPG, JPEG) into artistic sketches. It offers an intuitive interface for selecting images and generating sketches, enabling users to easily turn their photos into creative artworks.
 
 <br>
-### Features:  
-- Converts uploaded images into creative sketches using OpenCV's image processing tools.  
-- Supports PNG, JPG, and JPEG image formats.  
-- Saves both the original images and the generated sketches in a designated folder.  
-
+<h2>>Features:</h2>
+Converts uploaded images into creative sketches using OpenCV's image processing tools.
+Supports PNG, JPG, and JPEG image formats.
+Saves both the original images and the generated sketches in a designated folder.
+<br>
 ### Required Libraries:  
 - Flask  
 - OpenCV-Python  
